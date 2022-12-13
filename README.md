@@ -15,7 +15,8 @@ desenvolvido para fins de aprendizagem, mas acabou auxiliando nas tarefas diári
   <img align="center" alt="HTML" height="30" width="80" src="https://img.shields.io/badge/HTML-e54c21?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" height="30" width="70" src="https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="vuejs" height="30" width="80" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+</div><br>
 
-</div>
+## <a href="https://to-do-list-virid-eight.vercel.app/">Acesse 🔗</a>
 </div>
 
